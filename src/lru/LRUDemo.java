@@ -1,4 +1,4 @@
-package src;
+package src.lru;
 
 /**
  *LRU算法实现思路
