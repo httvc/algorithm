@@ -1,4 +1,4 @@
-package src.lru;
+package src.LinkedList.lru;
 
 /**
  *LRU算法实现思路
