@@ -142,7 +142,6 @@ class LRUDemo {
 		System.out.println();
 	}
 
-
 	public static void main(String[] args) {
 
 		LRUDemo lru=new LRUDemo();
