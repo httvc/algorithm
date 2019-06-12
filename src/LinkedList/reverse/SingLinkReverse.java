@@ -1,4 +1,4 @@
-package src.reverse;
+package src.LinkedList.reverse;
 
 public class SingLinkReverse {
     static Node head;
