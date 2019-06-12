@@ -1,4 +1,4 @@
-package src.palindrome;
+package src.LinkedList.palindrome;
 /**
  *字符串通过单链表来存储，判断是一个回文串
  *思路：
