@@ -7,6 +7,10 @@ public class Node {
         this.data=data;
     }
 
+    public Node(Node next,int data){
+        this.next=next;
+        this.data=data;
+    }
     public static void printData(Node node){
         if (node==null){
             return;
